@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "ajv": "^6.8.1",
+    "ajv": "^6.12.3",
     "babel-loader": "^8.0.6",
     "popper.js": "^1.15.0",
     "react": "^16.9.0",
